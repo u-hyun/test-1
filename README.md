@@ -21,5 +21,7 @@ git backup practice
 - test20
 - test30
 
+
+이미지를 업로드해서 가져옵니다
 ![image1](./images/sample1.jpeg)
 ![iamge2](./images/sample3.jpg)
