@@ -20,3 +20,6 @@ git backup practice
 - test10
 - test20
 - test30
+
+![image1](./images/sample1.jpeg)
+![iamge2](./images/sample3.jpg)
